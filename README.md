@@ -41,11 +41,11 @@
    
    ใช้ไม่ได้ในกรณีที่ข้อมูลมีไม่ถึงกำหนด เช่น Console.WriteLine(" {0}  {2} {3}", 3, 6, 7); จะได้รูปดังนี้
    
-   ![]()
+   ![](https://github.com/fernkamon/LAB-05/blob/master/img/q1.JPG)
    
    แต่ถ้าข้อมูลมีถึงกำหนด เช่น Console.WriteLine(" {0}  {2} {3}", 3, 6, 7, 1); จะใช้ได้ ดังรูปต่อไปนี้
    
-   ![]()
+   ![](https://github.com/fernkamon/LAB-05/blob/master/img/q2.JPG)
    
  
  2.5). แก้โปรแกรมตามรูปด้านล่างนี้
