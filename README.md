@@ -53,11 +53,10 @@
   ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic3.png)
 
  2.6). รันโปรแกรม และบันทึกผลที่ได้
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+
+  สามารถนำข้อมูลในตำแหน่งนั้นๆมาใช้ซ้ำได้ ดังรูปนี้
+  
+  ![](https://github.com/fernkamon/LAB-05/blob/master/img/6%203%206.JPG)
 
 3). ทดลองเรื่องการกำหนดความกว้างของอาร์กิวเมนต์
 
