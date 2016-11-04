@@ -96,14 +96,19 @@
 
   5.2). รันโปรแกรม และบันทึกผลที่ได้
   
+  ได้ผลดังนี้
   ![](https://github.com/fernkamon/LAB-05/blob/master/img/bb.JPG)
 
 6). ทดลองเรื่องการกำหนดรูปแบบพร้อมความกว้างของทศนิยมของอาร์กิวเมนต์
   6.1). แก้โปรแกรมตามรูปด้านล่างนี้
 
- ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic7.png)
+![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic7.png)
 
   6.2). รันโปรแกรม และบันทึกผลที่ได้
+
+   ได้ผลดังนี้
+
+  ![](https://github.com/fernkamon/LAB-05/blob/master/img/ccc.JPG)
 
 ## แบบฝึกหัด จงระบุ output ของบรรทัดคำสั่งต่อไปนี้
 
