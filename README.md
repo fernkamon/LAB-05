@@ -135,3 +135,4 @@
 ```
  ได้คำตอบดังนี้
  
+![](https://github.com/fernkamon/LAB-05/blob/master/img/Ans.JPG)
